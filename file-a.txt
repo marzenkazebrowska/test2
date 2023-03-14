@@ -1,1 +1,3 @@
 plik
+
+Zmiana małych liter na duże
